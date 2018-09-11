@@ -27,5 +27,5 @@ public class LatinSquareTest {
 		
 		assertTrue(lq.hasDuplicates(arr));
 	}
-
+	
 }
